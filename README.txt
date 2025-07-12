@@ -16,7 +16,7 @@ This project enhances blurred or low-resolution images using a lightweight CNN t
 Used downsampled DF2K (DIV2K + Flickr2K) with bicubic blur simulation.
 
 ## 💻 Run in Colab
-You can test the notebook directly in [Google Colab](https://colab.research.google.com/).
+You can test the notebook directly in [Google Colab](https://colab.research.google.com/drive/1dO3P1nCTdzcoktB9jgREt_-ic1GNbqVt#scrollTo=yKAUMCXu1c1z).
 
 ## ⚙️ Requirements
 See `requirements.txt`.
