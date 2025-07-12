@@ -9,7 +9,7 @@ This project enhances blurred or low-resolution images using a lightweight CNN t
 - Evaluation: SSIM & PSNR
 
 ## 📦 Files
-- `image_sharpening.ipynb`: Training & inference notebook
+- `intel(1).ipynb`: Training & inference notebook
 - `student_x4_balanced_50ep.pt`: Trained model weights
 
 ## 🧪 Dataset
